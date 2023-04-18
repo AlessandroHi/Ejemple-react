@@ -1,0 +1,17 @@
+vite componentes.jsx , es obligatorio
+
+
+npm create vite
+  -react 
+  -reat-JS   /* Se crea el proyecto con Vite + React*/
+
+npm install  /* Las instalaciones de dependencias (Node.js)*/
+
+npm run dev  /* Se levanta el Frontend*/
+
+
+npm install -D tailwindcss postcss autoprefixer /* PARA ESTILOS CSS CON MODULOS*/
+
+npx tailwindcss init -p /* PARA INICIAR tailwindcss*/
+
+npm install gh-pages --save-dev /*SUBIR ARCHIVOS ESTATICOS gh-pages*/
